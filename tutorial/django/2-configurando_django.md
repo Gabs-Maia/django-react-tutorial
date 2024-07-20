@@ -13,7 +13,7 @@ O comanda `cd`é uma abreviação para "change directory" ("mude diretório"... 
 
 Depois de criar o peojeto, a estrutura de arquivos ficará algo como:
 
-![alt text](image.png)
+![alt text](../django/img/image.png)
 
 Para verificar se o projeto está propriamente funcionando, você pode digitar o comando:
 ```
@@ -22,7 +22,7 @@ python manage.py runserver
 Esse comando irá rodar o servidor. Essa mensagem irá aparecer indicando o sucesso:
 <br>
 
-![alt text](image-1.png)
+![alt text](../django/img/image-1.png)
 
 # CONFIGURAÇÃO DO DJANGO:
 
